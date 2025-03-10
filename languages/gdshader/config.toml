@@ -1,4 +1,4 @@
 name = "GDShader"
 grammar = "gdshader"
-path_suffixes = "gdshader"
+path_suffixes = ["gdshader"]
 line_comments = ["// "]

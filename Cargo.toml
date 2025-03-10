@@ -5,9 +5,6 @@ edition = "2021"
 publish = false
 license = "MIT"
 
-# [lints]
-# workspace = true
-
 [lib]
 path = "src/gdshader.rs"
 crate-type = ["cdylib"]
