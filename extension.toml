@@ -1,0 +1,11 @@
+id = "gdshader"
+name = "GDShader"
+version = "0.0.1"
+schema_version = 1
+authors = ["Chris Renfrow <dev@chrisrenfrow.me>"]
+description = "Adds syntax highlighting for Godot's shader language, GDShader"
+repository = "https://github.com/chrisrenfrow/zed-gdshader"
+
+[grammars.gdshader]
+repository = "https://github.com/GodOfAvacyn/tree-sitter-gdshader"
+rev = "ffd9f958df13cae04593781d7d2562295a872455"
